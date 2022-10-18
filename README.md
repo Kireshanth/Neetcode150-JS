@@ -69,7 +69,7 @@ Highly recommend DS&A courses on freecodecamp and video solutions by Neetcode on
 - [ ] [Combination](https://leetcode.com/problems/combination-sum/) <br>
 - [ ] [Word Search](https://leetcode.com/problems/word-search/) <br>
 
-## Graphs
+### Graphs
 - [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/) <br>
 - [ ] [Clone Graph](https://leetcode.com/problems/clone-graph/) <br>
 - [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) <br>
