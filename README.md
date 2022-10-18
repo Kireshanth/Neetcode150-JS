@@ -1,7 +1,7 @@
 # Grind75 Javascript Solutions
 
 ## About
-Javascript* solutions for [Grind75](https://www.techinterviewhandbook.org/grind75) problems for interview prep. <i>Note I solved heap related questions using Python to leverage built-in min-heap library.</i>
+Javascript* solutions for [Grind75](https://www.techinterviewhandbook.org/grind75) problems from leetcode. Practicing for interviews while sharing my solutions to help others! <i>Note I solved heap related questions using Python to leverage built-in min-heap library.</i>
 
 ## Resources
 Highly recommend DS&A courses on freecodecamp and video solutions by Neetcode on YT
