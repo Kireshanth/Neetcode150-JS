@@ -1,7 +1,7 @@
-# Grind75 Javascript Solutions
+# Blind75 Javascript Solutions
 
 ## About
-Javascript* solutions for [Grind75](https://www.techinterviewhandbook.org/grind75) problems from leetcode. Practicing for interviews while sharing my solutions to help others! <i>Note I solved heap related questions using Python to leverage built-in min-heap library.</i>
+Javascript* solutions for [Blind75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) problems from leetcode. Practicing for interviews while sharing my solutions to help others! <i>Note I solved heap related questions using Python to leverage built-in min-heap library.</i>
 
 ## Resources
 Highly recommend DS&A courses on freecodecamp and video solutions by Neetcode on YT
@@ -12,7 +12,7 @@ Highly recommend DS&A courses on freecodecamp and video solutions by Neetcode on
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) <br>
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) <br>
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/) <br>
-- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) <br>
+- [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) <br>
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) <br>
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) <br>
 - [ ] [Encode And Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) <br>
@@ -70,9 +70,9 @@ Highly recommend DS&A courses on freecodecamp and video solutions by Neetcode on
 - [ ] [Word Search](https://leetcode.com/problems/word-search/) <br>
 
 ### Graphs
-- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/) <br>
+- [x] [Number of Islands](https://leetcode.com/problems/number-of-islands/) <br>
 - [ ] [Clone Graph](https://leetcode.com/problems/clone-graph/) <br>
-- [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) <br>
+- [x] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) <br>
 - [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/) <br>
 - [ ] [Number of Connected Components In An Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) <br>
 - [ ] [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) <br>
