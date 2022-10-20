@@ -3,8 +3,8 @@
  * @return {number}
  */
  var orangesRotting = function(grid) {
-    //Very similar to walls and gates!
-    //iterate through all cells and add the positions of the rotten oranges to the queue. Also add their positions to the visited set
+    //Very similar to walls and gates! -- iterate through all cells and add the positions of the rotten oranges to the queue. Also add their positions to the visited set
+    //TC: O(n*m), SC: O(n*m)... all cells have rotten oranges.
     let count = 2;
     //used to find the latest time it took for all oranges to be rotten
     let minTime = 0;
