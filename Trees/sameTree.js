@@ -13,6 +13,10 @@
  */
 // use DFS method to check if the trees and all subtrees within those trees are equal
  var isSameTree = function(p, q) {
+    //OVERAL TC: O(p), SC: O(p) --> where p is the number of nodes
+    //worst case, both trees are the same so we perform DFS function on all nodes.
+    //trees could be not balanced (i.e LLs), so we could have all nodes on call stack before we return.
+
     //base case - if both nodes are null, they're the same. If we hit a leaf node, we can return true
     if(p == null && q == null){
         return true;
