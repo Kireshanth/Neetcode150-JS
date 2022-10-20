@@ -79,4 +79,5 @@ Highly recommend DS&A courses on freecodecamp and video solutions by Neetcode on
 - [x] [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) <br>
 - [x] [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) <br>
 - [x] [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) <br>
+- [x] [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/) <br>
 
