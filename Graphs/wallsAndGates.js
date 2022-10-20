@@ -2,6 +2,8 @@ function wallsAndGates(rooms) {
     //iterate through the map, add check for GATES. Add their positions into the queue. We're going to perform
     //BFS at each gate one at a time, and relabel all cells if with their position from the gate if they
     //haven't been explored already. This will ensure that each empty room will have the distance to the closest gate.
+
+    //TC: O(n*m), SC: O(n*m) -> if all cells are gates, our stack size would be n*m
     let queue = [];
     let visit = new Set();
     //position of each cell from the closest gate
