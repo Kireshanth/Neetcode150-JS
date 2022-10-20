@@ -7,9 +7,10 @@
 //DFS method on each cell before returning... call stack would have n*m calls.
 
 //Main Logic: 
-//1) Iterate around the cells on the perimeter, and check for "O"s, 
-//mark them as "T" then perform DFS to check for connecting "O"s to mark as well.
-//2) Iterate over each cell and switch all O's to X's then all T's back to O's
+//1) Iterate around the cells on the perimeter, and perform DFS method on them 
+//DFS method -> check if cell is out of bounds, check if cell is not a "O", if its an "O" mark as "T". Call DFS
+//on all neighboring cells.
+//2) Then iterate over each cell and switch all O's to X's then all T's back to O's
  var solve = function(board) {
     //Iterating over left and right perimeter rows, perform DFS
     for(let col = 0;  col < board[0].length; col++){
@@ -37,15 +38,19 @@
 };
 
 function explore(grid, row , col){
+    //base case - check if we all out of bounds
     if(row < 0 || col < 0 || row == grid.length || col == grid[0].length){
         return;
     }
+    //base case - check if we're at a cell that isn't a O (i.e an X OR T, we shouldnt do anything)
     if(grid[row][col] != "O"){
         return;
     }
+    //base case - we found O's that are not fully surrounded by X's, mark as T
     else{
         grid[row][col] = "T"
     }
+    //check all directions
     explore(grid, row+1 , col)
     explore(grid, row-1 , col)
     explore(grid, row , col+1)
