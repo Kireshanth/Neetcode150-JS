@@ -1,7 +1,7 @@
-# Blind75 Javascript Solutions
+# Neetcode150 Javascript Solutions
 
 ## About
-Javascript* solutions for [Blind75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) problems from leetcode. Practicing for interviews while sharing my solutions to help others! <i>Note I solved heap related questions using Python to leverage built-in min-heap library.</i>
+Javascript* solutions for [Neetcode150](https://neetcode.io/practice) problems from leetcode. Practicing for interviews while sharing my solutions to help others! <i>Note I solved heap related questions using Python to leverage built-in min-heap library.</i>
 
 ## Resources
 Highly recommend DS&A courses on freecodecamp and video solutions by Neetcode on YT
