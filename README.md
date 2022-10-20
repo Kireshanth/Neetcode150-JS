@@ -74,6 +74,7 @@ Highly recommend DS&A courses on freecodecamp and video solutions by Neetcode on
 - [ ] [Clone Graph](https://leetcode.com/problems/clone-graph/) <br>
 - [x] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) <br>
 - [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/) <br>
-- [ ] [Number of Connected Components In An Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) <br>
+- [x] [Number of Connected Components In An Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) <br>
 - [ ] [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) <br>
+- [x] [Max Area of Island]([https://leetcode.com/problems/graph-valid-tree/](https://leetcode.com/problems/max-area-of-island/)) <br>
 
