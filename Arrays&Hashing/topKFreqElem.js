@@ -1,4 +1,4 @@
-//Optimal Solution: Bucket Sort, TC: O(n), SC: O(n)
+//Optimal Solution: Bucket Sort, TC: O(n), SC: O(n) => space required for map and bucket array
  var topKFrequent = function(nums, k) {
 
     let freq = {};
