@@ -23,6 +23,7 @@ Highly recommend DS&A courses on freecodecamp and video solutions by Neetcode on
 - [x] [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) <br>
 - [x] [3Sum](https://leetcode.com/problems/3sum/) <br>
 - [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) <br>
+- [x] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) <br>
 
 ### Sliding Window
 - [ ] [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) <br>
