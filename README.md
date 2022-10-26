@@ -26,10 +26,11 @@ Highly recommend DS&A courses on freecodecamp and video solutions by Neetcode on
 - [x] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) <br>
 
 ### Sliding Window
-- [ ] [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) <br>
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) <br>
-- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) <br>
-- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) <br>
+- [x] [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) <br>
+- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) <br>
+- [x] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) <br>
+- [x] [Permutation In String](https://leetcode.com/problems/permutation-in-string/solution/) <br>
+- [x] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) <br>
 
 ### Stack
 - [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) <br>
