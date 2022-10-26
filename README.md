@@ -26,17 +26,23 @@ Highly recommend DS&A courses on freecodecamp and video solutions by Neetcode on
 - [x] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) <br>
 
 ### Sliding Window
-- [ ] [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) <br>
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) <br>
-- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) <br>
-- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) <br>
+- [x] [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) <br>
+- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) <br>
+- [x] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) <br>
+- [x] [Permutation In String](https://leetcode.com/problems/permutation-in-string/solution/) <br>
+- [x] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) <br>
 
 ### Stack
 - [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) <br>
 
 ### Binary Search
+- [ ] [Binary Search](https://leetcode.com/problems/binary-search/) <br>
+- [ ] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) <br>
+- [ ] [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) <br>
 - [ ] [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) <br>
 - [ ] [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) <br>
+- [ ] [Time Based Key Value Store](https://leetcode.com/problems/time-based-key-value-store/) <br>
+- [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) <br>
 
 ### Linked List
 - [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) <br>
