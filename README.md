@@ -36,8 +36,13 @@ Highly recommend DS&A courses on freecodecamp and video solutions by Neetcode on
 - [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) <br>
 
 ### Binary Search
+- [ ] [Binary Search](https://leetcode.com/problems/binary-search/) <br>
+- [ ] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) <br>
+- [ ] [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) <br>
 - [ ] [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) <br>
 - [ ] [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) <br>
+- [ ] [Time Based Key Value Store](https://leetcode.com/problems/time-based-key-value-store/) <br>
+- [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) <br>
 
 ### Linked List
 - [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) <br>
